@@ -1,6 +1,9 @@
 # :+1: financial-dashboard-powerBI
+
 Sample Excel Data - Financial Worksheet
+
 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: 𝐌𝐢𝐜𝐫𝐨𝐬𝐨𝐟𝐭 𝐏𝐨𝐰𝐞𝐫 𝐁𝐢
+
 𝙋𝙧𝙤𝙘𝙚𝙨𝙨 𝙄𝙣𝙫𝙤𝙡𝙫𝙚𝙙-
 •	Data Collection
 •	Data Cleaning
