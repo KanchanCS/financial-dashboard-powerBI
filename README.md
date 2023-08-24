@@ -16,3 +16,14 @@ Sample Excel Data - Financial Worksheet
 
 Power BI connect to Excel files databases, can import data After connecting data source use Power Query (within Power BI) to transform and clean the data. In the Power BI data model create relationships between different tables, define measures (calculated fields), and build hierarchies.
 
+The Power BI dashboard displays information on:
+
+•	Total sum of sales.
+
+•	Total Revenue.
+
+•	Total Average of sales.
+
+•	Total revenue by country.
+
+
